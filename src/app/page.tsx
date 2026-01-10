@@ -52,7 +52,7 @@ export default function Page() {
                   mehran3@duck.com
                 </Link>
                 <Link
-                  href="https://drive.google.com/file/d/17C3FCxPKV0i2c6pEDMQIcUImWdmNXQf-/view?usp=drivesdk"
+                  href="https://drive.google.com/file/d/17C3FCxPKV0i2c6pEDMQIcUImWdmNXQf-/view?usp=drivesdk" target="_blank"
                   className="inline-flex items-center gap-2 text-sm font-medium text-foreground hover:underline transition-all mt-2 ml-3"
                 >
                   <svg
