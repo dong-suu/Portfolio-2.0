@@ -11,7 +11,7 @@ export const DATA = {
     "Full-Stack JavaScript/TypeScript Developer with experience delivering scalable frontend and backend systems. I specialise in React, Node.js, TypeScript, REST/GraphQL APIs, and modern full-stack architectures.",
   summary:
     "Engineer passionate about building cool websites. Currently working on multiple projects and building [Projects](https://github.com/mxhran-m). I specialise in React, Next, Node, and backend development with Python and FastAPI.",
-  avatarUrl: "/me.jpg",
+  avatarUrl: "/images/me.jpg",
   skills: [
     "Javascript",
     "Typescript",
@@ -187,7 +187,7 @@ export const DATA = {
     },
     {
       title: "Basic Cart",
-      href: "https://github.com/samiksha0shukla/n8n",
+      href: "https://github.com/Mxhran-m/cart_proj",
       //dates: "2024",
       active: true,
       description:

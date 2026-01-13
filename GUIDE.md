@@ -283,31 +283,22 @@ Edit `tailwind.config.ts` to change colors, fonts, and other theme settings.
 
 ### Personal Info
 
-- **Name**: Samiksha Shukla
-- **Role**: AI/ML Engineer
-- **Focus**: Machine Learning, Deep Learning, NLP, Backend Development
+- **Name**: Mehran
+- **Role**: Full Stack dev
+- **Focus**: Frontend, backend
 
 ### Experience (2 positions)
 
-1. Computer Market Hub - AI Intern (Aug 2024 - Dec 2024)
-2. Munshot - AI Intern (Aug 2025 - Sept 2025)
+
 
 ### Projects (4 projects)
 
-1. ContextMemory - Memory system for AI applications
-2. AIxAI - MCP-powered agent generator
-3. HomeSage - Real estate price prediction
-4. n8n Clone - Visual workflow automation
 
 ### Hackathons (2 events)
 
-1. Smart India Hackathon (SIH) - Top finalist
-2. Hack JKLU - 3rd Place Winner
+
 
 ### Education
 
-- B.Tech in Computer Science, BGIEM (2021-2025)
 
 ### Skills
-
-PyTorch, Langchain, RAG, LangGraph, PydanticAI, Python, Machine Learning, Deep Learning, Agentic AI, FastAPI, SQLAlchemy, Pydantic
